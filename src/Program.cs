@@ -188,26 +188,26 @@ unsafe
             return tex;
         }
 
-        // texPlayer = LoadTexture("assets/player.png");
-        // texEnemy = LoadTexture("assets/enemy.png");
-        // texBullet = LoadTexture("assets/bullet.png");
-        // texGem = LoadTexture("assets/gem.png");
-        // texTileset = LoadTexture("assets/tileset.png"); 
-        // texStructure = LoadTexture("assets/structure.png");
-        // texBoss = LoadTexture("assets/boss.png");
+        texPlayer = LoadTexture("assets/player.png");
+        texEnemy = LoadTexture("assets/enemy.png");
+        texBullet = LoadTexture("assets/bullet.png");
+        texGem = LoadTexture("assets/gem.png");
+        texTileset = LoadTexture("assets/tileset.png"); 
+        texStructure = LoadTexture("assets/structure.png");
+        texBoss = LoadTexture("assets/boss.png");
 
-        //shop assets
-        // texShopBg = LoadTexture("assets/shop_bg.png");
-        // texWeaponPad = LoadTexture("assets/weapon_pad.png");
-        // texShieldPad = LoadTexture("assets/shield_pad.png");
-        // texExitDoor = LoadTexture("assets/exit_door.png");
+       // shop assets
+        texShopBg = LoadTexture("assets/shop_bg.png");
+        texWeaponPad = LoadTexture("assets/weapon_pad.png");
+        texShieldPad = LoadTexture("assets/shield_pad.png");
+        texExitDoor = LoadTexture("assets/exit_door.png");
 
         
-        // texPanel = LoadTexture("assets/ui_panel.png");
-        // texUiSheet = LoadTexture("assets/ui_sheet.png");
+        texPanel = LoadTexture("assets/ui_panel.png");
+        texUiSheet = LoadTexture("assets/ui_sheet.png");
 
-        // texMenuBg = LoadTexture("assets/menu_bg.png");
-        // texPlayBtn = LoadTexture("assets/play_button.png");
+        texMenuBg = LoadTexture("assets/menu_bg.png");
+        texPlayBtn = LoadTexture("assets/play_button.png");
     };
 
     // --- FULL RETRO ALPHABET FONT RENDERER ---
